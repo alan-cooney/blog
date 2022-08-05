@@ -29,7 +29,8 @@
 				"ms-python.vscode-pylance",
 				"ms-azuretools.vscode-docker",
 				"donjayamanne.githistory",
-				"njpwerner.autodocstring"
+				"njpwerner.autodocstring",
+				"streetsidesoftware.code-spell-checker"
 			]
 		}
 	},
