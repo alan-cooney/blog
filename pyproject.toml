@@ -1,0 +1,13 @@
+[build-system]
+build-backend = "setuptools.build_meta"
+requires = ["setuptools"]
+
+[project]
+dependencies = [
+  "jupyterlab",
+  "torch",
+  "torchvision",
+  "tensorflow_datasets",
+]
+name = "alan-blog"
+version = "0.0.1"
