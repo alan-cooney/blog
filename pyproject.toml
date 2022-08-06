@@ -8,6 +8,7 @@ dependencies = [
   "torch",
   "torchvision",
   "tensorflow_datasets",
+  "pandas"
 ]
 name = "alan-blog"
 version = "0.0.1"
